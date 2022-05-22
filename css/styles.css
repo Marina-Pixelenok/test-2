@@ -17,7 +17,7 @@ section {
     text-align: center;
     margin: auto;
     border: 2px solid green;
-    background-color: turquoise;
+    background-color: #b7e7e2;
     overflow: auto;
 }
 
@@ -35,7 +35,7 @@ hr {
 
 #dropdown {
     text-align: center;
-    background-color: aquamarine;
+    background-color: #b7e7e2;
     padding: 0;
 }
 
